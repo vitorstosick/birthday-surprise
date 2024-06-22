@@ -28,7 +28,7 @@ public class Porteiro extends Thread {
 						observer.chegou(event);
 					}
 				} else {
-					System.out.println("Alarme falso pessoal!!");
+					System.out.println("Não era o Pedro.");
 				}
 			}
 		} finally {

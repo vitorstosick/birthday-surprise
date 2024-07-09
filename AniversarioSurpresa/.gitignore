@@ -1,8 +1,0 @@
-# Ignorar diretórios de configurações do Eclipse
-.settings/
-.metadata/
-.project
-.classpath
-
-# Ignorar diretórios binários
-bin/

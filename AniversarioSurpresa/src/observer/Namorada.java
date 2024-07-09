@@ -4,8 +4,8 @@ public class Namorada implements ChegadaAniversarianteObserver {
 
 	@Override
 	public void chegou(ChegadaAniversarianteEvent event) {
-		System.out.println("Apaga a luz ai rapazi!");
-		System.out.println("Façam silêncio!!);
-		System.out.println("FELIZ ANIVERSÁRIO MEU MANO PEDRO!!!");
+		System.out.println("APAGUEM AS LUZES SE NÃO ELE VAI VER!");
+		System.out.println("SHHHH!! FIQUEM EM SILÊNCIO!!");
+		System.out.println("PARABÉNS!! FELIZ ANIVERSÁRIOOOOOOOO!!!");
 	}
 }
